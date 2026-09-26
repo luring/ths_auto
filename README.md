@@ -6,7 +6,7 @@ ths同花顺股票程序化交易接口，直接使用同花顺内部交易接�
 
 ![自动委托]([https://gushi.in/app/upload/mairu.gif](https://github.com/luring/ths_auto/blob/main/买入.gif))
 
-![委托示例]([docs/images/order-example.png](https://github.com/luring/ths_auto/blob/main/买入.gif)
+![委托示例]([docs/images/order-example.png](docs/images/买入.gif)
 
 ![批量撤单示例](docs/images/cancel-example.png)
 
