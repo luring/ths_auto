@@ -4,7 +4,7 @@ ths同花顺股票程序化交易接口，直接使用同花顺内部交易接�
 为了便于大A股票的量化交流与研究，开设了专用的牛来量化股市社区： [https://www.gushi.in](https://gushi.in/topic/435)
 版本更新、选股策略、实盘交流等，后续都在社区更新
 
-![自动委托](https://gushi.in/app/upload/mairu.gif))
+![自动委托](https://gushi.in/app/upload/mairu.gif)
 
 # 同花顺股票交易系统 
 
